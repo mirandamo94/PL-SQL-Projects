@@ -1,2 +1,2 @@
 # PL-SQL-Projects
-PL/SQL Projects
+PL/SQL, JDBC Projects
